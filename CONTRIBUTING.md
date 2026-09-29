@@ -1,7 +1,6 @@
 # Contributing
 
-The following is a guide on how to structure commits and other contributions to the project. It was created with the help of online sources and AI. It exists mainly for my benefit to ensure consistency across the project and compliance with the industry standards.
-
+The following is a guide on how to structure commits and other contributions to the project. It was created with the help of online sources and AI. 
 
 This is currently a solo learning project, but these conventions exist so the
 commit history stays useful — both as a changelog for anyone browsing the repo,
